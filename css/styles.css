@@ -2,6 +2,30 @@ html {
     font-family: sans-serif;   
 }
 
-.polar bears {
-    box-shadow: 3px 3px #1d00ff;
+h1 {
+    background-color: aliceblue;
     
+}
+
+h4 {
+    background-color: aliceblue;
+}
+
+body {
+    background-image:url("../images/ice.jpg");
+}
+
+.colorblue {
+    color: #0c0257; 
+    
+}
+
+.bears {
+    color: #0670fa;
+    
+}
+
+#polarbears {
+    border: 10px 10px #0670fa;
+    box-shadow: 3px 3px #0c0257;
+}
